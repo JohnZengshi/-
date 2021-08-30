@@ -1,5 +1,13 @@
 react源码解析话术：
 
+Render（渲染器） Reconciler（协调器） Scheduler（调度器）
+
+
+
+
+
+
+
 ### React的导出：
 
 ![image-20210825123911391](https://tva1.sinaimg.cn/large/008i3skNgy1gtsxk4z4lnj60u0136afa02.jpg)
@@ -48,7 +56,7 @@ react源码解析话术：
 
 ![image-20210825122136580](https://tva1.sinaimg.cn/large/008i3skNgy1gtsx1tba0xj60jm0hcjs002.jpg)
 
-###### ReactElement
+###### ‼️ReactElement
 
 > 创建新的react元素。
 
